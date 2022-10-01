@@ -1,4 +1,4 @@
-### Hi there i'm Adam.
+### Hi i'm Adam.
 ***
 <p align="center">
 🐶 | 🌲⛰️ | 👟🏋️ | 🎵🎸 | 🕹️
