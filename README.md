@@ -1,4 +1,10 @@
-### Hi i'm Adam.
+### Hi i'm Adam 👋.
+
+Full stack analytics egineer with a goal to transform data into action.
+
+- My 🧰: .python
+
+
 ***
 <p align="center">
 🐶 | 🌲⛰️ | 👟🏋️ | 🎵🎸 | 🕹️
