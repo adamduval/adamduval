@@ -1,15 +1,16 @@
 ### Hi i'm Adam 👋.
 
-Full stack analytics egineer with a goal to transform data into action.
+I am a full stack analytics egineer with a goal to transform data into action.
 
-- My 🧰: .python
+My 🧰:
+  - Python
+  - SQL
+  - Snowflake
+  - dbt
+  - streamlit
+  - Azure
 
-
-***
-<p align="center">
-🐶 | 🌲⛰️ | 👟🏋️ | 🎵🎸 | 🕹️
-</p>
-
+When I am not coding I am 🐶 || 🌲⛰️ || 👟🏋️ || 🎵🎸 || 🕹️
 <!--
 **adamduval/adamduval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
