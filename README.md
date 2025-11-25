@@ -1,6 +1,6 @@
-### Hi i'm Adam 👋.
+### Hi, I'm Adam 👋.
 
-I am a full stack analytics egineer with a goal to transform data into action.
+I am a full-stack analytics engineer who transforms data into actionable insights.
 
 My 🧰:
   - Python
@@ -9,6 +9,8 @@ My 🧰:
   - dbt
   - streamlit
   - Azure
+  - Looker / Power BI / Tableau
+  - Git / GitHub / Github Actions
 
 When I am not coding I am 🐶 || 🌲⛰️ || 👟🏋️ || 🎵🎸 || 🕹️
 <!--
